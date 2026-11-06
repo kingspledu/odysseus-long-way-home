@@ -1,1 +1,16 @@
-{}
+{
+  "batch-01": {
+    "scene_ids": [
+      "sc001",
+      "sc002",
+      "sc003",
+      "sc004"
+    ],
+    "grid": "2x2",
+    "prompt": "Use case: illustration-story. ONE square image as EXACT 2x2 grid of FOUR equal square standalone scenes. Thin straight white gutters precisely at half width and half height. Row-major order: top-left, top-right, bottom-left, bottom-right. No text, captions, speech bubbles, letters, logos or watermark. Korean fantasy webtoon style for young readers age8+: polished expressive linework, soft digital cel shading, Mediterranean sea blues and warm earth tones, cinematic yet gentle storytelling. Classical ancient Greek setting, no modern objects, no medieval castles or Viking ships. Anatomical correctness is critical: exactly two arms on opposite shoulders, coherent shoulder-upperarm-elbow-forearm-wrist paths, one thumb and four fingers per hand, no fused or detached hands, simplify overlapping poses. Hero identity from primary sheet: olive skin, curly dark-brown hair, brown eyes, full beard, eyebrow notch, sea-teal chiton, brown sandals; cream cloak before shipwreck, no cloak while afloat; late Calypso and homecoming older weathered same face, gray temples; homecoming ragged brown cloak. Penelope plum robe and braided dark hair, adult Telemachus rust tunic. Crew: adult Mediterranean men in simple ochre/navy short tunics. Consistent ship until destruction: one mast, cream square sail, red-brown timber hull, oars; later small boat must differ. Other sheets ONLY identity references; do not import their unrelated cast or backdrop. Each panel only characters needed by its description. No gore or visible human/animal injury. Highest native detail; retain clean 2x2 layout. \nTOP LEFT: Odysseus in cream cloak and sea-teal chiton supervises two Greek carpenters assembling a towering hollow wooden horse on a sandy shore outside Troy; clear hands using simple wooden mallets; distant city walls.\nTOP RIGHT: Trojans pull the enormous wooden horse on wooden wheels through a wide stone city gate at sunset; Odysseus and hidden Greeks are NOT visible outside.\nBOTTOM LEFT: Moonlit Troy: Odysseus and two companions emerge from a small hatch in the wooden horse and open a city gate, quiet non-graphic suspense, no battle or injuries.\nBOTTOM RIGHT: Odysseus stands near bow of ancient Greek ship as it leaves Troy toward turquoise open sea at dawn, hopeful face, cream cloak and teal chiton; cream square sail, red-brown hull, one mast.",
+    "native_size": [
+      1254,
+      1254
+    ]
+  }
+}

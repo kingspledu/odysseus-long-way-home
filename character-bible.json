@@ -1,6 +1,166 @@
 {
-  "art_style": "Modern Korean Webtoon Slice-of-Life Style",
-  "models": [],
-  "state_timeline": [],
-  "reference_images": []
+  "art_style": "Polished Korean fantasy webtoon for readers age8+, Mediterranean palette, clean anatomy, no text in scene images.",
+  "source_vs_adaptation": "Source facts follow supplied retelling. Ages, facial features, garment colors, architecture and Siren bird form are production choices for consistency, not historical claims.",
+  "models": [
+    {
+      "id": "odysseus",
+      "name": "Odysseus",
+      "source_facts": [
+        "A king, husband and father; clever and brave but makes mistakes.",
+        "Fights in a ten-year war, loses crew and ship, spends seven years with Calypso, returns disguised."
+      ],
+      "adaptation_lock": "Olive-tan athletic man, dark brown eyes, short curly dark hair, full beard, left eyebrow notch. Sea-teal knee-length chiton, leather belt and sandals; cream cloak before wreck; faded tunic with no cloak in water; later gray temples and weathered beard; ragged brown cloak on return."
+    },
+    {
+      "id": "penelope",
+      "name": "Penelope",
+      "source_facts": [
+        "Odysseus’s wife; tests the bow and the secret of their bed before recognizing him."
+      ],
+      "adaptation_lock": "Olive skin, brown eyes, dark crown-braided hair, plum-purple long chiton, cream shawl, simple gold earrings; adult mature face."
+    },
+    {
+      "id": "telemachus",
+      "name": "Odysseus’s son",
+      "source_facts": [
+        "Helps his father regain their home; joins the reunion."
+      ],
+      "adaptation_lock": "Young adult at reunion, olive skin, wavy short dark hair, clean-shaven; rust-red knee-length chiton and brown belt. Not a small child at return."
+    },
+    {
+      "id": "crew",
+      "name": "Odysseus’s men",
+      "source_facts": [
+        "Travel with him; open wind bag; become pigs and are restored; use earwax and row; perish after cattle incident."
+      ],
+      "adaptation_lock": "Adult Mediterranean men, simple ochre/navy short tunics and sandals; repeat same two recognizable secondary faces where possible. No modern military clothing."
+    },
+    {
+      "id": "polyphemus",
+      "name": "Polyphemus",
+      "source_facts": [
+        "Giant with one eye, cave and sheep; traps men; later asks his sea-god father to stop Odysseus."
+      ],
+      "adaptation_lock": "Enormous stocky bronze-tan cyclops, exactly one eye, curly black hair and beard, rough ochre wool tunic. Eye injury remains offscreen."
+    },
+    {
+      "id": "aeolus",
+      "name": "Aeolus",
+      "source_facts": [
+        "Keeper of winds who gives a bag containing bad winds and warns not to open it."
+      ],
+      "adaptation_lock": "Older gray long-bearded man, sky-blue robe, deep blue cloak, brown tied leather bag."
+    },
+    {
+      "id": "circe",
+      "name": "Circe",
+      "source_facts": [
+        "Magical woman turns men into pigs and later restores them; tells Odysseus to seek Tiresias."
+      ],
+      "adaptation_lock": "Adult olive-skinned woman, amber eyes, shoulder-length dark auburn waves, forest-green robe, wine-red sash, gold bracelets, golden cup."
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes",
+      "source_facts": [
+        "God who gives a protective magic plant."
+      ],
+      "adaptation_lock": "Youthful adult, golden-brown curls, ivory short tunic, winged sandals, white flower with dark roots; sheet also includes a winged cap as fixed visual choice."
+    },
+    {
+      "id": "tiresias",
+      "name": "Tiresias",
+      "source_facts": [
+        "Wise spirit warns not to hurt sun god’s cows."
+      ],
+      "adaptation_lock": "Kind elderly translucent silver-haired man, long silver beard, pale gray robe and staff."
+    },
+    {
+      "id": "mother",
+      "name": "Odysseus’s mother",
+      "source_facts": [
+        "A smiling spirit whom Odysseus cannot embrace."
+      ],
+      "adaptation_lock": "Kind elderly translucent woman, gray low bun, pale blue robe, family resemblance to Odysseus."
+    },
+    {
+      "id": "sirens",
+      "name": "The Sirens",
+      "source_facts": [
+        "Sing beautifully and lure sailors toward unsafe rocks."
+      ],
+      "adaptation_lock": "Three fully feather-covered adult bird-women, ivory/lavender plumage, wings and bird feet. Bird form is an adaptation choice, not specified in supplied retelling."
+    },
+    {
+      "id": "scylla",
+      "name": "Scylla",
+      "source_facts": [
+        "Sea monster with six heads, takes six men."
+      ],
+      "adaptation_lock": "Exactly six separately countable teal-gray serpentine heads on six necks, one shared creature body; loss portrayed without visible victims."
+    },
+    {
+      "id": "charybdis",
+      "name": "Charybdis",
+      "source_facts": [
+        "Creates a great hole in the sea able to pull a whole ship down."
+      ],
+      "adaptation_lock": "A single huge clockwise sea whirlpool opposite Scylla’s cliff; no extra invented face."
+    },
+    {
+      "id": "cattle",
+      "name": "The sun god’s cows",
+      "source_facts": [
+        "Sacred cows eaten by hungry crew despite warning."
+      ],
+      "adaptation_lock": "Healthy golden-brown cattle in green meadow; killing and wounds not illustrated."
+    },
+    {
+      "id": "calypso",
+      "name": "Calypso",
+      "source_facts": [
+        "Cares for Odysseus, offers eternal life, keeps him seven years, eventually helps him build a boat."
+      ],
+      "adaptation_lock": "Adult warm olive skin, very long honey-brown waves, green-brown eyes, turquoise long robe, ivory sash and small white flowers."
+    },
+    {
+      "id": "suitors",
+      "name": "Men in Odysseus’s house",
+      "source_facts": [
+        "Want to marry Penelope, fail to draw bow, defeated with help of Odysseus’s son."
+      ],
+      "adaptation_lock": "Arrogant adult men in muted cream/ochre/gray tunics, no modern clothes; no graphic combat."
+    },
+    {
+      "id": "deities",
+      "name": "Sea god, sun god and other gods",
+      "source_facts": [
+        "Sea god is Polyphemus’s father; sun god becomes angry; gods eventually order Calypso to release Odysseus."
+      ],
+      "adaptation_lock": "Keep offscreen unless directly required; convey sea danger, lightning and permission through described events, no invented deity subplot."
+    }
+  ],
+  "state_timeline": [
+    {
+      "chapters": "1–7",
+      "state": "Same hero face, sea-teal chiton and cream cloak, intact Greek ship."
+    },
+    {
+      "chapter": "8",
+      "state": "Ship destroyed; only Odysseus remains, wet tunic, cream cloak lost."
+    },
+    {
+      "chapter": "9",
+      "state": "Calypso cares for hero; seven years later older weathered face, new small boat."
+    },
+    {
+      "chapter": "10 and lesson",
+      "state": "Ragged disguise at first, recognizably same older face; adult son; rooted tree bed remains in palace."
+    }
+  ],
+  "reference_images": [
+    "assets/references/characters-primary.webp",
+    "assets/references/characters-magic.webp",
+    "assets/references/characters-myth.webp"
+  ]
 }

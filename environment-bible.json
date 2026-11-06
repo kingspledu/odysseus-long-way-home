@@ -1,0 +1,60 @@
+{
+  "period": "Classical mythic ancient Greece; production design rather than archaeological reconstruction.",
+  "locations": [
+    {
+      "id": "troy",
+      "name": "Troy",
+      "production_lock": "Warm sandy limestone walls, square gate towers, broad wooden double gate, honey-brown wheeled horse; day construction, sunset entry, moonlit escape."
+    },
+    {
+      "id": "ship",
+      "name": "Greek ship",
+      "production_lock": "Red-brown timber hull, single mast and cream square sail, paired oars, raised curved prow and stern; same intact vessel until Chapter8."
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops island",
+      "production_lock": "Pale rocky island, broad warm-rock cave, giant round boulder at doorway, white sheep and cheese baskets; no modern doors."
+    },
+    {
+      "id": "wind",
+      "name": "Aeolus island",
+      "production_lock": "Sunny terrace above turquoise sea; tied brown leather wind bag only contains winds, not gold."
+    },
+    {
+      "id": "circe",
+      "name": "Circe island",
+      "production_lock": "Lush forest-green island, forest-green stone house, ochre-red roof, wood table and golden cup; leafy path where Hermes appears."
+    },
+    {
+      "id": "shadows",
+      "name": "Land of shadows",
+      "production_lock": "Still blue-gray shore, mist, reeds and muted horizon; gentle luminous spirits, no horror props."
+    },
+    {
+      "id": "sirens",
+      "name": "Siren rocks",
+      "production_lock": "Low isolated rocky islet beside hazardous rocks; ship safely passes at a distance, Sirens remain ashore."
+    },
+    {
+      "id": "strait",
+      "name": "Sea-monster strait",
+      "production_lock": "Scylla cliff to viewer left and single immense whirlpool to right; ship must pass cliff side, no spatial reversal in same sequence."
+    },
+    {
+      "id": "cattle",
+      "name": "Sun god island",
+      "production_lock": "Sunny green meadow with golden-brown cattle, then windbound shore and hungry camp, followed by sea storm."
+    },
+    {
+      "id": "calypso",
+      "name": "Calypso island",
+      "production_lock": "Lush sheltered cove, small coastal shelter, turquoise water, warm quiet light; new small boat at departure."
+    },
+    {
+      "id": "ithaca",
+      "name": "Ithaca home",
+      "production_lock": "Cream-stone palace, terracotta roof, olive grove and sheltered blue bay; hall cream columns/wood beams; bedroom bed built around rooted olive tree."
+    }
+  ]
+}

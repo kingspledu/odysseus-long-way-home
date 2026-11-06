@@ -1,1 +1,822 @@
-[]
+[
+  {
+    "id": "sc001",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0011",
+    "source_paragraph_ids": [
+      "p0011"
+    ],
+    "description": "The wooden horse",
+    "alt": "The wooden horse — Korean webtoon illustration",
+    "prompt_description": "Odysseus in cream cloak and sea-teal chiton supervises two Greek carpenters assembling a towering hollow wooden horse on a sandy shore outside Troy; clear hands using simple wooden mallets; distant city walls.",
+    "batch_id": "batch-01",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "integrated",
+    "web_asset_path": "assets/sc001.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "f236c4392e589e6fdb9ee2559e99e70117fd6bc5c253dfaf3627b06420ef2422",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
+  },
+  {
+    "id": "sc002",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0016",
+    "source_paragraph_ids": [
+      "p0016"
+    ],
+    "description": "A gift at the gates",
+    "alt": "A gift at the gates — Korean webtoon illustration",
+    "prompt_description": "Trojans pull the enormous wooden horse on wooden wheels through a wide stone city gate at sunset; Odysseus and hidden Greeks are NOT visible outside.",
+    "batch_id": "batch-01",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "integrated",
+    "web_asset_path": "assets/sc002.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "f236c4392e589e6fdb9ee2559e99e70117fd6bc5c253dfaf3627b06420ef2422",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
+  },
+  {
+    "id": "sc003",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0018",
+    "source_paragraph_ids": [
+      "p0018"
+    ],
+    "description": "The gates open",
+    "alt": "The gates open — Korean webtoon illustration",
+    "prompt_description": "Moonlit Troy: Odysseus and two companions emerge from a small hatch in the wooden horse and open a city gate, quiet non-graphic suspense, no battle or injuries.",
+    "batch_id": "batch-01",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "integrated",
+    "web_asset_path": "assets/sc003.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "f236c4392e589e6fdb9ee2559e99e70117fd6bc5c253dfaf3627b06420ef2422",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
+  },
+  {
+    "id": "sc004",
+    "chapter_id": "chapter-002",
+    "insert_after_paragraph_id": "p0022",
+    "source_paragraph_ids": [
+      "p0022"
+    ],
+    "description": "The voyage begins",
+    "alt": "The voyage begins — Korean webtoon illustration",
+    "prompt_description": "Odysseus stands near bow of ancient Greek ship as it leaves Troy toward turquoise open sea at dawn, hopeful face, cream cloak and teal chiton; cream square sail, red-brown hull, one mast.",
+    "batch_id": "batch-01",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "integrated",
+    "web_asset_path": "assets/sc004.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "f236c4392e589e6fdb9ee2559e99e70117fd6bc5c253dfaf3627b06420ef2422",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
+  },
+  {
+    "id": "sc005",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0032",
+    "source_paragraph_ids": [
+      "p0032"
+    ],
+    "description": "The one-eyed giant",
+    "alt": "The one-eyed giant — Korean webtoon illustration",
+    "prompt_description": "Inside a large warm-rock cave, Odysseus and two crew look up at enormous Polyphemus with exactly ONE centered eye; sheep, cheese baskets and giant stone doorway; non-graphic tension.",
+    "batch_id": "batch-02",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc006",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0040",
+    "source_paragraph_ids": [
+      "p0040"
+    ],
+    "description": "A clever plan",
+    "alt": "A clever plan — Korean webtoon illustration",
+    "prompt_description": "Polyphemus sleeps beside an empty wine cup, intact closed centered eye with no wound shown; Odysseus quietly signals crew to prepare escape; no violence.",
+    "batch_id": "batch-02",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc007",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0046",
+    "source_paragraph_ids": [
+      "p0046"
+    ],
+    "description": "Under the sheep",
+    "alt": "Under the sheep — Korean webtoon illustration",
+    "prompt_description": "Three distinct white sheep walk out of cave past a displaced round boulder; Odysseus and two crew cling beneath woolly bellies, each body anatomically clear, escape without visible injuries.",
+    "batch_id": "batch-02",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc008",
+    "chapter_id": "chapter-003",
+    "insert_after_paragraph_id": "p0050",
+    "source_paragraph_ids": [
+      "p0050"
+    ],
+    "description": "A name shouted to the sea",
+    "alt": "A name shouted to the sea — Korean webtoon illustration",
+    "prompt_description": "Odysseus on departing ship calls back with pride toward cyclops island, rocky shore in distance and dark gathering waves; giant only distant silhouette, no injured eye detail.",
+    "batch_id": "batch-02",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc009",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0058",
+    "source_paragraph_ids": [
+      "p0058"
+    ],
+    "description": "The keeper of winds",
+    "alt": "The keeper of winds — Korean webtoon illustration",
+    "prompt_description": "Aeolus gives Odysseus a tightly tied brown leather wind bag on sunny island terrace above sea; Aeolus sky-blue robe, gray beard; natural two-handed exchange.",
+    "batch_id": "batch-03",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc010",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0062",
+    "source_paragraph_ids": [
+      "p0062"
+    ],
+    "description": "Home on the horizon",
+    "alt": "Home on the horizon — Korean webtoon illustration",
+    "prompt_description": "Ship sails toward distant green Ithaca with small cream stone homes, Odysseus and crew hopeful at rail; wind bag remains tied beside mast.",
+    "batch_id": "batch-03",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc011",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0068",
+    "source_paragraph_ids": [
+      "p0068"
+    ],
+    "description": "The forbidden bag",
+    "alt": "The forbidden bag — Korean webtoon illustration",
+    "prompt_description": "Two curious crew loosen wind-bag knot on deck while Odysseus sleeps clearly in background; no gold actually in bag.",
+    "batch_id": "batch-03",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc012",
+    "chapter_id": "chapter-004",
+    "insert_after_paragraph_id": "p0073",
+    "source_paragraph_ids": [
+      "p0073"
+    ],
+    "description": "Home blown away",
+    "alt": "Home blown away — Korean webtoon illustration",
+    "prompt_description": "Spiraling pale wind streams burst from open leather bag, cream sail billows and wooden ship is driven away from tiny distant Ithaca; Odysseus awake, sad alarm; ship still intact.",
+    "batch_id": "batch-03",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc013",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0087",
+    "source_paragraph_ids": [
+      "p0087"
+    ],
+    "description": "The magic drink",
+    "alt": "The magic drink — Korean webtoon illustration",
+    "prompt_description": "Inside Circe forest-green stone house with red-ochre roof, Circe in green robe and wine sash watches two surprised little pigs surrounded by soft magical sparkles, discarded simple crew cloaks nearby; no body horror.",
+    "batch_id": "batch-04",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc014",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0093",
+    "source_paragraph_ids": [
+      "p0093"
+    ],
+    "description": "Hermes helps",
+    "alt": "Hermes helps — Korean webtoon illustration",
+    "prompt_description": "On a leafy path Hermes in ivory short tunic and winged sandals gives Odysseus a white-flowered dark-root plant; clear naturally connected two arms each.",
+    "batch_id": "batch-04",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc015",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0095",
+    "source_paragraph_ids": [
+      "p0095"
+    ],
+    "description": "The spell cannot change him",
+    "alt": "The spell cannot change him — Korean webtoon illustration",
+    "prompt_description": "Circe offers cup to Odysseus inside house; he remains fully human and holds magic plant in his other hand; two pigs nearby, friendly fantasy suspense.",
+    "batch_id": "batch-04",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc016",
+    "chapter_id": "chapter-005",
+    "insert_after_paragraph_id": "p0104",
+    "source_paragraph_ids": [
+      "p0104"
+    ],
+    "description": "Friends again",
+    "alt": "Friends again — Korean webtoon illustration",
+    "prompt_description": "Two fully dressed restored human crew joyfully inspect their own hands and feet; Odysseus smiles and Circe gently lowers hand, no pigs remaining in this panel.",
+    "batch_id": "batch-04",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc017",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0113",
+    "source_paragraph_ids": [
+      "p0113"
+    ],
+    "description": "The quiet shadow shore",
+    "alt": "The quiet shadow shore — Korean webtoon illustration",
+    "prompt_description": "Odysseus approaches dark still misty shore with muted blue rocks and reeds, apprehensive but brave, cream cloak over teal chiton; no skeletons, no horror.",
+    "batch_id": "batch-05",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc018",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0118",
+    "source_paragraph_ids": [
+      "p0118"
+    ],
+    "description": "The wise spirit",
+    "alt": "The wise spirit — Korean webtoon illustration",
+    "prompt_description": "Tiresias kindly luminous elderly spirit with silver beard and pale gray robe speaks to Odysseus on misty shore, holding staff; quiet caution, no actual cows present.",
+    "batch_id": "batch-05",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc019",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0125",
+    "source_paragraph_ids": [
+      "p0125"
+    ],
+    "description": "A mother he cannot hold",
+    "alt": "A mother he cannot hold — Korean webtoon illustration",
+    "prompt_description": "Odysseus reaches both open arms toward his translucent elderly mother in pale blue robe; she smiles compassionately, clearly a spirit, hands do not merge with hers; tender sadness.",
+    "batch_id": "batch-05",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc020",
+    "chapter_id": "chapter-006",
+    "insert_after_paragraph_id": "p0128",
+    "source_paragraph_ids": [
+      "p0128"
+    ],
+    "description": "He will go on",
+    "alt": "He will go on — Korean webtoon illustration",
+    "prompt_description": "Odysseus alone looking toward faint horizon light at edge of shadow shore, hand to heart and determined expression, soft mist, no extra figures.",
+    "batch_id": "batch-05",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc021",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0140",
+    "source_paragraph_ids": [
+      "p0140"
+    ],
+    "description": "A safe plan",
+    "alt": "A safe plan — Korean webtoon illustration",
+    "prompt_description": "Odysseus instructs two crew to place yellow wax gently in their own ears on deck; rough island ahead; correct hands and two arms per person.",
+    "batch_id": "batch-06",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc022",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0145",
+    "source_paragraph_ids": [
+      "p0145"
+    ],
+    "description": "Tied to the mast",
+    "alt": "Tied to the mast — Korean webtoon illustration",
+    "prompt_description": "Odysseus securely bound around torso to mast with thick rope, arms resting down naturally, no pain or injury; crew with wax in ears row past low rocks.",
+    "batch_id": "batch-06",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc023",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0149",
+    "source_paragraph_ids": [
+      "p0149"
+    ],
+    "description": "The beautiful dangerous song",
+    "alt": "The beautiful dangerous song — Korean webtoon illustration",
+    "prompt_description": "View from ship: Odysseus tied to mast looks yearningly toward three fully covered bird-woman Sirens singing on sea rocks; feathered wings, no mermaid tails, no text.",
+    "batch_id": "batch-06",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc024",
+    "chapter_id": "chapter-007",
+    "insert_after_paragraph_id": "p0153",
+    "source_paragraph_ids": [
+      "p0153"
+    ],
+    "description": "Beyond the song",
+    "alt": "Beyond the song — Korean webtoon illustration",
+    "prompt_description": "Safe open sea behind Siren rocks; crew release mast rope and Odysseus smiles in relief, all ship features consistent, no Sirens onboard.",
+    "batch_id": "batch-06",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc025",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0164",
+    "source_paragraph_ids": [
+      "p0164"
+    ],
+    "description": "Two dangerous ways",
+    "alt": "Two dangerous ways — Korean webtoon illustration",
+    "prompt_description": "Wide ancient Greek ship in narrow sea channel: ONE huge churning whirlpool on right side, towering dark rocky cliff on left, distant teal six-headed creature silhouette along cliff, no attack.",
+    "batch_id": "batch-07",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc026",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0169",
+    "source_paragraph_ids": [
+      "p0169"
+    ],
+    "description": "Row fast",
+    "alt": "Row fast — Korean webtoon illustration",
+    "prompt_description": "Odysseus commands rowers with one arm pointing along safe passage near cliff, anxious decisive face; whirlpool lies across channel, strong spray, no injuries.",
+    "batch_id": "batch-07",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc027",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0172",
+    "source_paragraph_ids": [
+      "p0172"
+    ],
+    "description": "Scylla rises",
+    "alt": "Scylla rises — Korean webtoon illustration",
+    "prompt_description": "Scylla rises beside rocky cliff behind ship with EXACTLY SIX separate serpentine heads and necks, countable and spaced; ship rows away in foreground. No victims, no biting, no blood.",
+    "batch_id": "batch-07",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc028",
+    "chapter_id": "chapter-008",
+    "insert_after_paragraph_id": "p0177",
+    "source_paragraph_ids": [
+      "p0177"
+    ],
+    "description": "The cost of escape",
+    "alt": "The cost of escape — Korean webtoon illustration",
+    "prompt_description": "Ship emerges into calmer sea; Odysseus lowers head grieving beside a few surviving crew, empty rowing positions visible. Loss conveyed by absence only, no bodies.",
+    "batch_id": "batch-07",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc029",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0188",
+    "source_paragraph_ids": [
+      "p0188"
+    ],
+    "description": "The sun god’s cattle",
+    "alt": "The sun god’s cattle — Korean webtoon illustration",
+    "prompt_description": "Healthy large golden-brown cattle graze in sunny green island meadow; Odysseus raises open hand warning crew to leave them alone; no injury or slaughter.",
+    "batch_id": "batch-08",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc030",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0196",
+    "source_paragraph_ids": [
+      "p0196"
+    ],
+    "description": "The warning ignored",
+    "alt": "The warning ignored — Korean webtoon illustration",
+    "prompt_description": "At dusk hungry crew sit beside small cooking pot on island while Odysseus sleeps away from them; cattle in distance, no animal killing, carcasses, meat closeups or graphic content.",
+    "batch_id": "batch-08",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc031",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0201",
+    "source_paragraph_ids": [
+      "p0201"
+    ],
+    "description": "The ship breaks",
+    "alt": "The ship breaks — Korean webtoon illustration",
+    "prompt_description": "Storm at sea, a white-gold lightning flash hits wooden mast and cream sail, ship begins splitting in turbulent water; no people struck, no visible bodies or injuries.",
+    "batch_id": "batch-08",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc032",
+    "chapter_id": "chapter-009",
+    "insert_after_paragraph_id": "p0204",
+    "source_paragraph_ids": [
+      "p0204"
+    ],
+    "description": "All alone",
+    "alt": "All alone — Korean webtoon illustration",
+    "prompt_description": "Odysseus alone holds a floating wood plank in dark sea after storm, wet sea-teal tunic without cream cloak, exhausted eyes above water; no other survivors shown.",
+    "batch_id": "batch-08",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc033",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0212",
+    "source_paragraph_ids": [
+      "p0212"
+    ],
+    "description": "Calypso’s island",
+    "alt": "Calypso’s island — Korean webtoon illustration",
+    "prompt_description": "Calypso in turquoise robe offers food and blanket to weary Odysseus at a lush island shelter by shore; his wet tunic now drying, calm care.",
+    "batch_id": "batch-09",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc034",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0218",
+    "source_paragraph_ids": [
+      "p0218"
+    ],
+    "description": "Thinking of home",
+    "alt": "Thinking of home — Korean webtoon illustration",
+    "prompt_description": "Odysseus sits alone on shore gazing at sea with longing, faded teal tunic; small soft distant memory vignette of Penelope in plum and young-adult Telemachus in rust-red, clearly a thought not island visitors.",
+    "batch_id": "batch-09",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc035",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0224",
+    "source_paragraph_ids": [
+      "p0224"
+    ],
+    "description": "Choosing a human life",
+    "alt": "Choosing a human life — Korean webtoon illustration",
+    "prompt_description": "Calypso and Odysseus talk by shore; he kindly but firmly gestures toward open sea, she listens sadly. Natural adult fully clothed characters, no romantic embrace.",
+    "batch_id": "batch-09",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc036",
+    "chapter_id": "chapter-010",
+    "insert_after_paragraph_id": "p0230",
+    "source_paragraph_ids": [
+      "p0230"
+    ],
+    "description": "Sailing toward home",
+    "alt": "Sailing toward home — Korean webtoon illustration",
+    "prompt_description": "Later older same Odysseus with weathered beard and silver temples sails small rough wooden boat alone away from lush island; Calypso distant at shore, hopeful sunrise.",
+    "batch_id": "batch-09",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc037",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0240",
+    "source_paragraph_ids": [
+      "p0240"
+    ],
+    "description": "A stranger in his own house",
+    "alt": "A stranger in his own house — Korean webtoon illustration",
+    "prompt_description": "Older same Odysseus disguised in ragged charcoal-brown cloak over faded teal chiton enters cream stone palace hall at Ithaca; arrogant adult suitors in background, Penelope plum dress seated apart.",
+    "batch_id": "batch-10",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc038",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0248",
+    "source_paragraph_ids": [
+      "p0248"
+    ],
+    "description": "The bow test",
+    "alt": "The bow test — Korean webtoon illustration",
+    "prompt_description": "Odysseus draws one large wooden bow with proper archer anatomy and correct string path, arrow aligned along a straight row of TWELVE separate bronze axe heads with center holes on stands; no people in arrow line.",
+    "batch_id": "batch-10",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc039",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0258",
+    "source_paragraph_ids": [
+      "p0258"
+    ],
+    "description": "The secret of the bed",
+    "alt": "The secret of the bed — Korean webtoon illustration",
+    "prompt_description": "Odysseus and Penelope beside a bed built around a rooted living olive-tree trunk in palace bedroom; he gestures gently at immovable tree bed, she recognizes him, no weapons.",
+    "batch_id": "batch-10",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc040",
+    "chapter_id": "chapter-011",
+    "insert_after_paragraph_id": "p0264",
+    "source_paragraph_ids": [
+      "p0264"
+    ],
+    "description": "A family again",
+    "alt": "A family again — Korean webtoon illustration",
+    "prompt_description": "Odysseus and Penelope embrace naturally in warm Ithaca hall and adult son Telemachus joins beside them; exactly two anatomically connected arms each, faces clear, gentle joyful reunion, no extra limbs.",
+    "batch_id": "batch-10",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc041",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0272",
+    "source_paragraph_ids": [
+      "p0272"
+    ],
+    "description": "Smart and brave",
+    "alt": "Smart and brave — Korean webtoon illustration",
+    "prompt_description": "Reflective recap: Odysseus looks thoughtfully at a small wooden horse model at palace table, same older face, family-friendly calm; visual motif of his original clever idea, no new magical artifact.",
+    "batch_id": "batch-11",
+    "tile": 1,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc042",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0278",
+    "source_paragraph_ids": [
+      "p0278"
+    ],
+    "description": "Trying again",
+    "alt": "Trying again — Korean webtoon illustration",
+    "prompt_description": "Reflective recap image of older Odysseus standing on rocky Ithaca shore looking across sea, faded teal chiton, compassionate resilient expression, no new journey starting.",
+    "batch_id": "batch-11",
+    "tile": 2,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc043",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0287",
+    "source_paragraph_ids": [
+      "p0287"
+    ],
+    "description": "Love, family, home",
+    "alt": "Love, family, home — Korean webtoon illustration",
+    "prompt_description": "Quiet domestic portrait of Odysseus, Penelope and adult Telemachus together at warm palace doorway facing their olive grove, natural distinct hands and silhouettes.",
+    "batch_id": "batch-11",
+    "tile": 3,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  },
+  {
+    "id": "sc044",
+    "chapter_id": "chapter-012",
+    "insert_after_paragraph_id": "p0288",
+    "source_paragraph_ids": [
+      "p0288"
+    ],
+    "description": "What makes a hero",
+    "alt": "What makes a hero — Korean webtoon illustration",
+    "prompt_description": "Close gentle smiling older Odysseus at home with Penelope and adult son nearby, humble loving expression, warm light, no crown, no battle, no gold or extra figures.",
+    "batch_id": "batch-11",
+    "tile": 4,
+    "grid": "2x2",
+    "character_ids": [
+      "odysseus"
+    ],
+    "status": "planned"
+  }
+]

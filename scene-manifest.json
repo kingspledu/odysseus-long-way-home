@@ -415,7 +415,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc017.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "c0bb12a85e9b9c2e860aae9a90456e7884ba26dce41d94dc871822b96fb1d587",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc018",
@@ -433,7 +440,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc018.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "c0bb12a85e9b9c2e860aae9a90456e7884ba26dce41d94dc871822b96fb1d587",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc019",
@@ -451,7 +465,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc019.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "c0bb12a85e9b9c2e860aae9a90456e7884ba26dce41d94dc871822b96fb1d587",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc020",
@@ -469,7 +490,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc020.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "c0bb12a85e9b9c2e860aae9a90456e7884ba26dce41d94dc871822b96fb1d587",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc021",
@@ -487,7 +515,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "0e1037a4971715f808e8305b2664892956de19deb821bc0c28990a426f99b0f9",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc022",
@@ -505,7 +539,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "0e1037a4971715f808e8305b2664892956de19deb821bc0c28990a426f99b0f9",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc023",
@@ -523,7 +563,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "0e1037a4971715f808e8305b2664892956de19deb821bc0c28990a426f99b0f9",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc024",
@@ -541,7 +587,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "0e1037a4971715f808e8305b2664892956de19deb821bc0c28990a426f99b0f9",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc025",
@@ -840,7 +892,7 @@
     ],
     "description": "Smart and brave",
     "alt": "Smart and brave — Korean webtoon illustration",
-    "prompt_description": "Reflective recap: Odysseus looks thoughtfully at a small wooden horse model at palace table, same older face, family-friendly calm; visual motif of his original clever idea, no new magical artifact.",
+    "prompt_description": "Reflective recap of original Chapter1 event: EARLY dark-haired Odysseus in cream cloak supervising the original full-size wooden horse construction outside Troy, not a new model or new palace prop.",
     "batch_id": "batch-11",
     "tile": 1,
     "grid": "2x2",

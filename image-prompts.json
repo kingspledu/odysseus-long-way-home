@@ -54,5 +54,33 @@
       1254,
       1254
     ]
+  },
+  "batch-05": {
+    "scene_ids": [
+      "sc017",
+      "sc018",
+      "sc019",
+      "sc020"
+    ],
+    "grid": "2x2",
+    "prompt": "Use case: illustration-story. ONE square image as EXACT 2x2 grid of FOUR equal square standalone scenes. Thin straight white gutters precisely at half width and half height. Row-major order: top-left, top-right, bottom-left, bottom-right. No text, captions, speech bubbles, letters, logos or watermark. Korean fantasy webtoon style for young readers age8+: polished expressive linework, soft digital cel shading, Mediterranean sea blues and warm earth tones, cinematic yet gentle storytelling. Classical ancient Greek setting, no modern objects, no medieval castles or Viking ships. Anatomical correctness is critical: exactly two arms on opposite shoulders, coherent shoulder-upperarm-elbow-forearm-wrist paths, one thumb and four fingers per hand, no fused or detached hands, simplify overlapping poses. Hero identity from primary sheet: olive skin, curly dark-brown hair, brown eyes, full beard, eyebrow notch, sea-teal chiton, brown sandals; cream cloak before shipwreck, no cloak while afloat; late Calypso and homecoming older weathered same face, gray temples; homecoming ragged brown cloak. Penelope plum robe and braided dark hair, adult Telemachus rust tunic. Crew: adult Mediterranean men in simple ochre/navy short tunics. Consistent ship until destruction: one mast, cream square sail, red-brown timber hull, oars; later small boat must differ. Other sheets ONLY identity references; do not import their unrelated cast or backdrop. Each panel only characters needed by its description. No gore or visible human/animal injury. Highest native detail; retain clean 2x2 layout. \nTOP LEFT: Odysseus approaches dark still misty shore with muted blue rocks and reeds, apprehensive but brave, cream cloak over teal chiton; no skeletons, no horror.\nTOP RIGHT: Tiresias kindly luminous elderly spirit with silver beard and pale gray robe speaks to Odysseus on misty shore, holding staff; quiet caution, no actual cows present.\nBOTTOM LEFT: Odysseus reaches both open arms toward his translucent elderly mother in pale blue robe; she smiles compassionately, clearly a spirit, hands do not merge with hers; tender sadness.\nBOTTOM RIGHT: Odysseus alone looking toward faint horizon light at edge of shadow shore, hand to heart and determined expression, soft mist, no extra figures.",
+    "native_size": [
+      1254,
+      1254
+    ]
+  },
+  "batch-06": {
+    "scene_ids": [
+      "sc021",
+      "sc022",
+      "sc023",
+      "sc024"
+    ],
+    "grid": "2x2",
+    "prompt": "Use case: illustration-story. ONE square image as EXACT 2x2 grid of FOUR equal square standalone scenes. Thin straight white gutters precisely at half width and half height. Row-major order: top-left, top-right, bottom-left, bottom-right. No text, captions, speech bubbles, letters, logos or watermark. Korean fantasy webtoon style for young readers age8+: polished expressive linework, soft digital cel shading, Mediterranean sea blues and warm earth tones, cinematic yet gentle storytelling. Classical ancient Greek setting, no modern objects, no medieval castles or Viking ships. Anatomical correctness is critical: exactly two arms on opposite shoulders, coherent shoulder-upperarm-elbow-forearm-wrist paths, one thumb and four fingers per hand, no fused or detached hands, simplify overlapping poses. Hero identity from primary sheet: olive skin, curly dark-brown hair, brown eyes, full beard, eyebrow notch, sea-teal chiton, brown sandals; cream cloak before shipwreck, no cloak while afloat; late Calypso and homecoming older weathered same face, gray temples; homecoming ragged brown cloak. Penelope plum robe and braided dark hair, adult Telemachus rust tunic. Crew: adult Mediterranean men in simple ochre/navy short tunics. Consistent ship until destruction: one mast, cream square sail, red-brown timber hull, oars; later small boat must differ. Other sheets ONLY identity references; do not import their unrelated cast or backdrop. Each panel only characters needed by its description. No gore or visible human/animal injury. Highest native detail; retain clean 2x2 layout. \nTOP LEFT: Odysseus instructs two crew to place yellow wax gently in their own ears on deck; rough island ahead; correct hands and two arms per person.\nTOP RIGHT: Odysseus securely bound around torso to mast with thick rope, arms resting down naturally, no pain or injury; crew with wax in ears row past low rocks.\nBOTTOM LEFT: View from ship: Odysseus tied to mast looks yearningly toward three fully covered bird-woman Sirens singing on sea rocks; feathered wings, no mermaid tails, no text.\nBOTTOM RIGHT: Safe open sea behind Siren rocks; crew release mast rope and Odysseus smiles in relief, all ship features consistent, no Sirens onboard.",
+    "native_size": [
+      1254,
+      1254
+    ]
   }
 }

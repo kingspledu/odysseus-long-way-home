@@ -152,6 +152,7 @@
     "native_size": [
       1254,
       1254
-    ]
+    ],
+    "correction_prompt": "Correct ONLY TOP RIGHT panel of this existing 2x2 Korean webtoon grid. All other 3 panels unchanged. The bow-test target must show EXACTLY TWELVE separate bronze axe heads, and every one must be fully inside the image, with at least a small right margin after the 12th. Currently the far end is clipped. Redraw the target row and camera framing so the row of twelve axes on twelve individual stands is entirely visible and countable. Arrange as one continuous straight row, shallow perspective, with a center hole in every axe head aligned with the arrow path. Leave more image space for the row by making the archer smaller at left. Do not add words, numbers, labels or extra axe heads. Odysseus draws the bow toward the empty axe targets; anatomically correct two arms attached to opposite shoulders, natural archer grip, coherent taut bow string. No person in target line. Preserve same older dark-curly-haired gray-templed Odysseus face and faded teal clothing, background, colors and style. No borders changed, no text.\n"
   }
 }

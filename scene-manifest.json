@@ -1015,7 +1015,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc041.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -1039,7 +1040,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc042.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -1063,7 +1065,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc043.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -1087,7 +1090,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc044.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,

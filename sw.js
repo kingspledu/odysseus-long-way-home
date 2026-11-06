@@ -1,8 +1,8 @@
 'use strict';
 const PREFIX='story-reader-odysseus-long-way-home-';
-const CACHE=PREFIX+'27e050e04dee';
+const CACHE=PREFIX+'91c5a7733dd0';
 const ROOT=new URL('./',self.location).href;
-const CORE=['./','./style.css?v=27e050e04dee','./app.js?v=27e050e04dee','./pwa.js?v=27e050e04dee','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
+const CORE=['./','./style.css?v=91c5a7733dd0','./app.js?v=91c5a7733dd0','./pwa.js?v=91c5a7733dd0','./manifest.webmanifest','./assets/app-icon-192.png','./assets/app-icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{

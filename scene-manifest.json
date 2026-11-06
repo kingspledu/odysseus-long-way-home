@@ -915,7 +915,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc037.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "00bbd29e301f11a23c511294de42454e98585cc4ef18e2f1dc11ce144f5a1be7",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc038",
@@ -933,7 +940,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc038.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "00bbd29e301f11a23c511294de42454e98585cc4ef18e2f1dc11ce144f5a1be7",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc039",
@@ -951,7 +965,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc039.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "00bbd29e301f11a23c511294de42454e98585cc4ef18e2f1dc11ce144f5a1be7",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc040",
@@ -969,7 +990,14 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "integrated",
+    "web_asset_path": "assets/sc040.webp",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "00bbd29e301f11a23c511294de42454e98585cc4ef18e2f1dc11ce144f5a1be7",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc041",

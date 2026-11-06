@@ -515,7 +515,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc021.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -539,7 +540,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc022.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -563,7 +565,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc023.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -587,7 +590,8 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned",
+    "status": "integrated",
+    "web_asset_path": "assets/sc024.webp",
     "width": 621,
     "height": 621,
     "grid_width": 1254,
@@ -611,7 +615,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "4e3523aea6704cbc1ff6639f99fc6b7bc9290b04e08c2c6eb37f749cbc12e462",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc026",
@@ -629,7 +639,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "4e3523aea6704cbc1ff6639f99fc6b7bc9290b04e08c2c6eb37f749cbc12e462",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc027",
@@ -647,7 +663,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "4e3523aea6704cbc1ff6639f99fc6b7bc9290b04e08c2c6eb37f749cbc12e462",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc028",
@@ -665,7 +687,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "4e3523aea6704cbc1ff6639f99fc6b7bc9290b04e08c2c6eb37f749cbc12e462",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc029",
@@ -683,7 +711,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "83d4e031c79e29576e1ddd2b858afcb9a35dc86f79a2099c26facb46e7aed863",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc030",
@@ -701,7 +735,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "83d4e031c79e29576e1ddd2b858afcb9a35dc86f79a2099c26facb46e7aed863",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc031",
@@ -719,7 +759,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "83d4e031c79e29576e1ddd2b858afcb9a35dc86f79a2099c26facb46e7aed863",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc032",
@@ -737,7 +783,13 @@
     "character_ids": [
       "odysseus"
     ],
-    "status": "planned"
+    "status": "planned",
+    "width": 621,
+    "height": 621,
+    "grid_width": 1254,
+    "grid_height": 1254,
+    "grid_sha256": "83d4e031c79e29576e1ddd2b858afcb9a35dc86f79a2099c26facb46e7aed863",
+    "review_note": "Visually checked character reference, anatomy, relevant source event, panel order and narrative state; native tile pixels retained."
   },
   {
     "id": "sc033",
